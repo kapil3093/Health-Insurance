@@ -33,5 +33,6 @@ charges: Individual medical costs billed by health insurance
 
 
 
-Skills and Tools
+Skills and Tools:
+
 Hypothesis Testing, Data visualisation, statistical Inference

@@ -3,19 +3,19 @@
 This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
 
 
-Data Description:
+### Data Description:
 The data at hand contains medical costs of people characterized by certain attributes.
 
 
-Domain:
+### Domain:
 Healthcare
 
 
-Context:
+### Context:
 Leveraging customer information is paramount for most businesses. In the case of an insurance company, attributes of customers like the ones mentioned below can be crucial in making business decisions. Hence, knowing to explore and generate value out of such data can be an invaluable skill to have.
 
 
-Attribute Information:
+### Attribute Information:
 
 age: age of primary beneficiary
 
@@ -33,6 +33,6 @@ charges: Individual medical costs billed by health insurance
 
 
 
-Skills and Tools:
+### Skills and Tools:
 
 Hypothesis Testing, Data visualisation, statistical Inference
